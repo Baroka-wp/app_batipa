@@ -1,3 +1,3 @@
 def index(request):
-    message = "salut tout le monde !"
+    message = "salut Tout le monde !"
     return HttpResponse(message)
